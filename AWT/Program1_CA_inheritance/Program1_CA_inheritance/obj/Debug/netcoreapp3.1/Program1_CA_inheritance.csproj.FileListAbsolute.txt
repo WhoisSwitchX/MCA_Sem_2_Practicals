@@ -1,0 +1,4 @@
+C:\Users\Rupesh\source\repos\AWT\Program1_CA_inheritance\Program1_CA_inheritance\obj\Debug\netcoreapp3.1\Program1_CA_inheritance.csproj.AssemblyReference.cache
+C:\Users\Rupesh\source\repos\AWT\Program1_CA_inheritance\Program1_CA_inheritance\obj\Debug\netcoreapp3.1\Program1_CA_inheritance.AssemblyInfoInputs.cache
+C:\Users\Rupesh\source\repos\AWT\Program1_CA_inheritance\Program1_CA_inheritance\obj\Debug\netcoreapp3.1\Program1_CA_inheritance.AssemblyInfo.cs
+C:\Users\Rupesh\source\repos\AWT\Program1_CA_inheritance\Program1_CA_inheritance\obj\Debug\netcoreapp3.1\Program1_CA_inheritance.csproj.CoreCompileInputs.cache
