@@ -1,0 +1,14 @@
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\bin\Debug\netcoreapp3.1\ClassandObject.exe
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\bin\Debug\netcoreapp3.1\ClassandObject.deps.json
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\bin\Debug\netcoreapp3.1\ClassandObject.runtimeconfig.json
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\bin\Debug\netcoreapp3.1\ClassandObject.runtimeconfig.dev.json
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\bin\Debug\netcoreapp3.1\ClassandObject.dll
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\bin\Debug\netcoreapp3.1\ClassandObject.pdb
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.csproj.AssemblyReference.cache
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.AssemblyInfoInputs.cache
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.AssemblyInfo.cs
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.dll
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.pdb
+C:\Users\Rupesh\source\repos\AWT\ClassandObject\ClassandObject\obj\Debug\netcoreapp3.1\ClassandObject.genruntimeconfig.cache
