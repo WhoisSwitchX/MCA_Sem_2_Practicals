@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "naBPNU4Vn5HDTyPqq5tlC3D0KSq83KaZNeMVQfigfV4ZzGdyJZCkRyiYpQG1yCTvQPZEZ5OAGEBWuYBwMFt7Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rupesh\\source\\repos\\AWT\\Program1_CA_inheritance\\Program1_CA_inheritance\\Program1_CA_inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
